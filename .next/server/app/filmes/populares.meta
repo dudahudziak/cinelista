@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/filmes/layout,_N_T_/filmes/populares/layout,_N_T_/filmes/populares/page,_N_T_/filmes/populares"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/filmes/populares/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 96,
+            "slots": {
+              "children": {
+                "hints": 160,
+                "slots": null
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/a8a2da8a8c589845374c8fec9ab544faf4ac0cd5faca81ff0f7273c14bf2db80/$/filmes/populares",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/filmes/populares/page"
+    },
+    "isFallback": false
+  }
+}

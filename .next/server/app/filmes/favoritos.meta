@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/filmes/layout,_N_T_/filmes/favoritos/layout,_N_T_/filmes/favoritos/page,_N_T_/filmes/favoritos"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/filmes/favoritos/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 96,
+            "slots": {
+              "children": {
+                "hints": 160,
+                "slots": null
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/7ba6f1e2176737f55212219c9f93185f3e92b9fa4dfde726d0c254a355eeba3f/$/filmes/favoritos",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/filmes/favoritos/page"
+    },
+    "isFallback": false
+  }
+}

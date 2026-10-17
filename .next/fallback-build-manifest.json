@@ -1,0 +1,15 @@
+{
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [
+    "static/H8WEglDVDpbL-9g-hLeh_/_buildManifest.js",
+    "static/H8WEglDVDpbL-9g-hLeh_/_ssgManifest.js",
+    "static/H8WEglDVDpbL-9g-hLeh_/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": [],
+  "rootMainFilesTree": {},
+  "pagesChunkGroupBootstrapParams": {}
+}
