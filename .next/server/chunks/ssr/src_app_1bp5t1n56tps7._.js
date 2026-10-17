@@ -1,3 +1,0 @@
-module.exports=[70831,a=>{a.v({title:"FEcn5a_title"})},89286,a=>{"use strict";var b=a.i(7997),c=a.i(70831);a.s(["f",0,({title:a})=>(0,b.jsx)("h2",{className:c.default.title,children:a})])},12636,a=>{"use strict";var b=a.i(7997),c=a.i(89286);a.s(["default",0,()=>(0,b.jsxs)(b.Fragment,{children:[(0,b.jsx)(c.f,{title:"Filme não encontrado"}),(0,b.jsx)("p",{children:"O filme que você está procurando não foi encontrado."})]})])},56153,function(a){a.n(a.i(12636))}];
-
-//# sourceMappingURL=src_app_1bp5t1n56tps7._.js.map

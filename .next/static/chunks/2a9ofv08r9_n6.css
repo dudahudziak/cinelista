@@ -1,3 +1,0 @@
-:root{--background:#fff;--foreground:#171717}@media (prefers-color-scheme:dark){:root{--background:#0a0a0a;--foreground:#ededed}}body{background:var(--background);color:var(--foreground);font-family:Arial,Helvetica,sans-serif}
-._4CjFVG_header{background-color:#1c1c1c;justify-content:space-between;align-items:center;padding:15px 30px;display:flex}._4CjFVG_header_container{align-items:center;gap:20px;display:flex}._4CjFVG_header_logo{color:#a144f7;font-size:24px;font-weight:700;text-decoration:none}._4CjFVG_header_nav{gap:20px;display:flex}._4CjFVG_header_nav a{color:#fff;text-decoration:none}._4CjFVG_header_nav a:hover{color:#a144f7}
-._1I15rq_footer{text-align:center;color:#fff;background-color:#1c1c1c;padding:20px}._1I15rq_footer_text{margin:0;font-size:14px}
